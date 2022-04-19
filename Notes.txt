@@ -1,0 +1,1 @@
+search gitignore on github to find a gitignore list for each language in your techstack
